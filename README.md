@@ -1,7 +1,3 @@
-# DSB-deep-learning-optimzation
-
-
-
 
 ## Deep Learning & Optimization Labs: DSB Polytechnique Master's Course
 
